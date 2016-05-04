@@ -1,6 +1,6 @@
 name: Ken Planter
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.00168
 typography_spectrum: 0.58898
 title: Video thoughts
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5386722809635103
+    - '#010101'
+    - '#393939'
+    - '#666666'
+    - '#767676'
+    - '#8a8a8a'
+  brandStrength: 0
   lightness: 0.1555523402057588
   saturation: 0.6803714486304671
   rhythmicContrast: 0.9135156469419599
